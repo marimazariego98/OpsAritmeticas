@@ -7,6 +7,8 @@
 
 Aplicación de escritorio desarrollada con JavaFX que implementa una calculadora básica para operaciones aritméticas fundamentales (suma, resta, multiplicación y división).
 
+> 📋 **[Ver Requerimientos Detallados del Sistema](REQUERIMIENTOS.md)** - Información completa sobre NetBeans 27, Java 24, SDKMAN y configuración del entorno.
+
 ## 📋 Descripción
 
 Calculadora gráfica interactiva que permite realizar operaciones aritméticas entre dos números con validación de entrada, manejo de errores (división por cero, entradas inválidas) y formateo automático de resultados con hasta 12 decimales.
@@ -332,7 +334,8 @@ mvn clean javafx:run 2>&1 | tee log.txt
 
 ## 📚 Documentación Adicional
 
-- **[DOCUMENTACION.md](DOCUMENTACION.md)** - Documentación académica completa en español
+- **[DOCUMENTACION.md](DOCUMENTACION.md)** - Documentación académica completa en español con explicación del código
+- **[REQUERIMIENTOS.md](REQUERIMIENTOS.md)** - Requerimientos detallados del sistema (NetBeans 27, Java 24, SDKMAN, JavaFX)
   - Introducción detallada
   - Explicación línea por línea del código
   - Guía de usuario con capturas
