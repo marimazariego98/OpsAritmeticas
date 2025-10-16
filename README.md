@@ -45,7 +45,8 @@ Calculadora gráfica interactiva que permite realizar operaciones aritméticas e
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone [<URL-del-repositorio>](https://github.com/marimazariego98/OpsAritmeticas)
+git clone https://github.com/marimazariego98/OpsAritmeticas
+
 cd Opsaritmeticas
 ```
 
@@ -61,7 +62,7 @@ sdk install java 24.0.2-amzn
 sdk use java 24.0.2-amzn
 ```
 
-### 3. Configurar Variables de Entorno (Opcional)
+### 3. Configurar Variables de Entorno (Opcional en linux)
 
 Para usar Maven directamente desde terminal:
 
@@ -371,5 +372,3 @@ Para consultas académicas sobre este proyecto, contactar a través de los canal
 ---
 
 **Desarrollado con ❤️ usando Java y JavaFX**
-
-*Última actualización: Octubre 2025*
