@@ -45,7 +45,7 @@ Calculadora gráfica interactiva que permite realizar operaciones aritméticas e
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone <URL-del-repositorio>
+git clone [<URL-del-repositorio>](https://github.com/marimazariego98/OpsAritmeticas)
 cd Opsaritmeticas
 ```
 
